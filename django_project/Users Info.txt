@@ -1,0 +1,3 @@
+syedamanshah	helloworld12	Admin User
+zainabkhalid	helloworld12	User
+humaimamalik	helloworld21	User
